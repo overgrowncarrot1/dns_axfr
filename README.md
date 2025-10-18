@@ -1,4 +1,4 @@
-##Tool to try zone transfers.
+<h1>Tool to try zone transfers.</h1>
 
 ```
 python3 dns_axfr.py -d zonetransfer.me --try-ns \
